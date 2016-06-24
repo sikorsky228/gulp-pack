@@ -12,7 +12,7 @@ var gulp = require('gulp'),
     rimraf = require('rimraf'),
     browserSync = require("browser-sync"),
     mainBowerFiles = require('main-bower-files'),
-	reload = browserSync.reload;
+	  reload = browserSync.reload;
 
 
 // Move css files to build
